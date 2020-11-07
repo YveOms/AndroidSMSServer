@@ -1,7 +1,7 @@
 # Android SMS Server
 
 Android SMS Server is an Android Application that allows you to host your own SMS server using your Android phone.
-
+![Android SMS Server](https://github.com/YveOms/AndroidSMSServer/blob/main/device-2020-11-07-152450.png?raw=true)
 
 ## Usage
 
